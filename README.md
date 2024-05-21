@@ -1,4 +1,4 @@
-## MediAssist: Your AI-powered Health Assistant
+## MediAssist🩺: Your AI-powered Health Assistant
 
 **Imagine experiencing symptoms and wanting to understand what might be causing them.** MediAssist is a user-friendly web application designed to be your first line of defense. It leverages the power of machine learning to analyze your symptoms and provide insights into potential health concerns. 
 
